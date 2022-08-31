@@ -1,4 +1,4 @@
-# Tailwind Manage Landing Page
+# Responsive Tailwind Manage Landing Page
 
 ![Screenshot (109)](https://user-images.githubusercontent.com/79022070/187713432-eebeeba8-7604-4c5c-bc55-807e906b0069.png)
 
